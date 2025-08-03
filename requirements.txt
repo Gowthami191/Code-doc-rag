@@ -1,6 +1,11 @@
 streamlit
 gitpython
-chromadb
-sentence-transformers
-openai
 beautifulsoup4
+langchain==0.1.14
+groq
+chromadb
+tiktoken
+openai
+python-dotenv
+sentence-transformers
+
