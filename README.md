@@ -42,4 +42,4 @@ Upload ZIP repo
 3.Storage in ChromaDB
    Vector representations are stored locally in chroma_db/.
 4.Question Answering
-   Your query is embedded, relevant chunks retrieved → LLaMA 3 generates the answer.
+   Your query is embedded, relevant chunks retrieved, LLaMA 3 generates the answer.
