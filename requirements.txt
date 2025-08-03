@@ -1,0 +1,6 @@
+streamlit
+gitpython
+chromadb
+sentence-transformers
+openai
+beautifulsoup4
